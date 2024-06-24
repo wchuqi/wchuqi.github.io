@@ -1,7 +1,7 @@
 +++
 title = 'Foodandvocation'
 date = 2024-06-19T23:18:43+08:00
-draft = fasle
+draft = false
 tag = 美食
 +++
 
